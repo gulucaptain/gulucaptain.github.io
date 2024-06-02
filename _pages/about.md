@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 I'm a second-year Ph.D. student in the School of Computer Science at Fudan University, supervised by [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/) and [Prof. Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en). 
-<!-- Before that, I received my Bachelor's and Master's degrees in Computer Science from Nanchang University in 2019 and 2022, respectively. -->
 
 My research interests lie in computer vision and deep learning, with an emphasis on video understanding and generation, e.g., crowd counting, video-language retrieval, general video generation, and customized video generation.
 
