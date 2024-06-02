@@ -1,70 +1,127 @@
-# jekyll-theme-persephone
+<div align="center">
 
-[![Gem Version](https://badge.fury.io/rb/jekyll-theme-persephone.svg)](https://rubygems.org/gems/jekyll-theme-persephone)
+Link in bio to **widgets**,
+your online **home screen**. ➫ [🔗 kee.so](https://kee.so/)
 
-Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes`, your sass files in `_sass` and any other assets in `assets`.
+</div>
 
-To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
+---
 
-[DEMO with full functions.](http://demo.erl.im)
+<div align="center">
+<h1>Paper <sup><sup><sub>6.25</sub></sup></sup></h1>
 
-[A simple blog demo](https://en.erl.im)
+Demo → [hugo-paper.vercel.app](https://hugo-paper.vercel.app/)
 
-## Demo
+A simple, clean, customizable Hugo theme.
 
-| ![home layout](/screenshots/home.png) | ![blog layout](/screenshots/blog.png) |
-| -- | -- |
-| `layout: home` [Demo](https://en.erl.im/blog/) | `layout: blog` [Demo](https://en.erl.im/archive/) |
-| ![post layout](/screenshots/post.png) | ![page layout](/screenshots/page.png) |
-| `layout: post` [Demo](https://en.erl.im/blog/jekyll-theme-persephone.html) | `layout: page` [Demo](https://jekyll-theme-persephone.netlify.app/about.html) |
-| ![archive layout](/screenshots/archive.png)      | ![slides layout](/screenshots/slides.png) |
-| ![book layout](/screenshots/book.png) | ![chapter layout](/screenshots/chapter.png) |
-| <strong style="color: red">*</strong> `layout: book` [Demo](https://jekyll-theme-persephone.netlify.app/corner) | <strong style="color: red">*</strong> `layout: chapter` [Demo](https://jekyll-theme-persephone.netlify.app/corner/1.html) |
+⚡️ Fast | 👒 Customizable | 🫙 Smooth
 
-The layout with red * relied on a jekyll books generator plugin: [`jekyll-books`](https://github.com/erlzhang/jekyll-books)
+</div>
 
-## Installation
+## Links
 
-Add this line to your Jekyll site's `Gemfile`:
+Product Hunt: [producthunt.com/posts/hugo-paper-6](https://www.producthunt.com/posts/hugo-paper-6)
 
-```ruby
-gem "jekyll-theme-persephone"
+Hugo themes: [themes.gohugo.io/hugo-paper](https://themes.gohugo.io/hugo-paper/)
+
+## Overview
+
+![](./images/screenshot.png)
+![](./images/screenshot_dark.png)
+![](./images/screenshot_mobile.png)
+![](./images/pagespeed.png)
+
+## Options
+
+Available options to `config.toml` or `hugo.toml`:
+
+```toml
+disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
+  github = 'YOUR_GITHUB_ID'                 # github.com/YOUR_GITHUB_ID
+  instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
+  linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
+  mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
+  threads = '@YOUR_THREADS_ID'              # threads.net/@YOUR_THREADS_ID
+  rss = true                                # show rss icon
+
+  # home page profile
+  avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
+  name = 'YOUR_NAME'
+  bio = 'YOUR_BIO'
+
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  disablePostNavigation = true              # disable post navigation
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  math = true                               # enable KaTeX math typesetting globally
+  localKatex = false                        # use local KaTeX js/css instead of CDN
+  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+  favicon = "favicon.ico"                   # customize the default favicon
+  appleTouchIcon = "apple-touch-icon.png"   # customize the default Apple touch icon
+
+  # giscus
+[params.giscus]
+  repo = 'YOUR_GISCUS_REPO'                 # see https://giscus.app for more details
+  repoId = 'YOUR_GISCUS_REPO_ID'
+  category = 'YOUR__GISCUS_CATEGORY'
+  categoryId = 'YOUR_GISCUS_CATEGORY_ID'
+  mapping = 'pathname'
+  theme = 'light'
+  lang = 'zh-CN'
 ```
 
-And add this line to your Jekyll site's `_config.yml`:
+Available options to front matter:
 
-```yaml
-theme: jekyll-theme-persephone
+```toml
+comments = false                            # disable comments for a specific page
+math = true                                 # enable KaTeX math typesetting for a specific page
 ```
 
-And then execute:
+## Install
 
-    $ bundle
+### As git submodule
 
-Or install it yourself as:
+Inside the folder of your Hugo project, run:
 
-    $ gem install jekyll-theme-persephone
+```bash
+git submodule add https://github.com/nanxiaobei/hugo-paper themes/paper
+```
 
-## Usage
+Open `config.toml`(or `hugo.toml`), change `theme` to `"paper"`:
 
-- [Settings](/_config.yml)
-- [Layouts](/docs/layouts.md)
-- [Comments](/docs/comments.md)
-- [`jekyll-books` generator](/docs/books.md)
+```toml
+theme = "paper"
+```
 
-## Contributing
+For more information, please read the [official guide](https://gohugo.io/getting-started/quick-start/#configure-the-site) of Hugo.
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/erlzhang/jekyll-theme-persephone. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+### As hugo module
 
-## Development
+Add paper theme ad dependency of your site:
 
-To set up your environment to develop this theme, run `bundle install`.
+```bash
+hugo mod init github.com/<your_user>/<your_project>
+```
 
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+Open `config.toml`(or `hugo.toml`), remove the `theme` line (if present), add `module` section to the bottom of the file:
 
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `jekyll-theme-persephone.gemspec` accordingly.
+```toml
+[module]
+  [[module.imports]]
+    path = "github.com/nanxiaobei/hugo-paper"
+```
+
+For more information, please read the [official guide](https://gohugo.io/hugo-modules/use-modules/#use-a-module-for-a-theme) of Hugo.
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+[MIT License](https://github.com/nanxiaobei/hugo-paper/blob/main/LICENSE) (c) [nanxiaobei](https://lee.so/)
