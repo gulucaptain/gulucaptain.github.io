@@ -13,7 +13,7 @@ My research interests lie in computer vision and deep learning, with an emphasis
 
 Publication
 ======
-* [MagDiff: Multi-Alignment Diffusion for High-Fidelity Video Generation and Editing](https://arxiv.org/abs/2311.17338). Haoyu Zhao, Tianyi Lu, Jiaxi Gu, Xing Zhang, Zuxuan Wu, Hang Xu, Yu-Gang Jiang. ECCV 2024.
+* [MagDiff: Multi-Alignment Diffusion for High-Fidelity Video Generation and Editing](https://arxiv.org/abs/2311.17338). Haoyu Zhao, Tianyi Lu, Jiaxi Gu, Xing Zhang, Qingping Zheng, Zuxuan Wu, Hang Xu, Yu-Gang Jiang. ECCV 2024.
 * [SPACE: Finding key-speaker in complex multi-person scenes](https://ieeexplore.ieee.org/abstract/document/9556626). Haoyu Zhao, Weidong Min, Jianqiang Xu, Qing Han, Wei Li, Qi Wang, Ziyuan Yang, Linghua Zhou. IEEE Transactions on Emerging Topics in Computing (TETC).
 * [Need Only One More Point (NOOMP): Perspective Adaptation Crowd Counting in Complex Scenes](https://ieeexplore.ieee.org/abstract/document/9992082). Haoyu Zhao, Qi Wang, Guowei Zhan, Weidong Min, Yi Zou, Shimiao Cui. IEEE Transactions on Multimedia (TMM).
 * [Scene-adaptive crowd counting method based on meta learning with dual-input network DMNet](https://link.springer.com/article/10.1007/s11704-021-1207-x). Haoyu Zhao, Weidong Min, Jianqiang Xu, Qi Wang, Yi Zou, Qiyan Fu. Frontiers of Computer Science (FCS).
@@ -34,4 +34,4 @@ Awards
 ======
 National Scholarship (Top1%). 2021.
 
-Updated at Jun. 2024.
+Updated at 16. Jul. 2024.
