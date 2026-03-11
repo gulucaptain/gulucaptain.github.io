@@ -13,9 +13,11 @@ redirect_from:
 
 ## Biography
 
-Haoyu Zhao is a four-year Ph.D. student in the College of Computer Science and Artificial Intelligence at [Fudan University](https://www.fudan.edu.cn/), supervised by [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/) and [Prof. Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=zh-CN).
+Haoyu Zhao is a fourth-year Ph.D. student at the College of Computer Science and Artificial Intelligence, **Fudan University (QS 30)**, under the supervision of **Prof. Zuxuan Wu** and **Prof. Yu-Gang Jiang**.
 
-His research interests lie in computer vision and deep learning, with an emphasis on video understanding and generation, including crowd counting, video-language retrieval, general video generation, and content-controllable video generation.
+His research focuses on computer vision and deep learning, particularly video understanding and generation, encompassing areas such as **Vision-Language Model**,  **Diffusion Model**, **Content-controllable Video Synthesis**, and **World Model**.
+
+He has published his work in top-tier venues, including **CVPR**, **ECCV**, **AAAI**, **ICLR**, **TMM**, and **FCS**.
 
 <span class='anchor' id='publications'></span>
 
