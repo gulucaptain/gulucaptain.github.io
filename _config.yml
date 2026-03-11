@@ -1,0 +1,68 @@
+# Welcome to Jekyll!
+
+# Site Settings
+title: "Haoyu Zhao"
+description: "Personal academic homepage of Haoyu Zhao."
+repository: "elephantflow/gulucaptain-homepage"
+enable_google_scholar_stats: false
+
+# SEO Related (Optional - leave empty if not used)
+google_site_verification:
+bing_site_verification:
+baidu_site_verification:
+
+# Site Author
+author:
+  name: "Haoyu Zhao"
+  avatar: "https://avatars.githubusercontent.com/u/265717252?v=4"
+  bio: "Every little helps."
+  employer: "Fudan University"
+  location: "Shanghai, China"
+  googlescholar: "https://scholar.google.com/citations?user=pCGM7jwAAAAJ&hl=zh-CN"
+  email: "hyzhao22[at]m.fudan.edu.cn"
+  github: "gulucaptain"
+  linkedin:
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+timezone: Asia/Shanghai
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+
+# Whitelist
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# Include _pages
+include:
+  - _pages
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
+# Exclude list
+exclude:
+  - docs
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - node_modules
+  - vendor

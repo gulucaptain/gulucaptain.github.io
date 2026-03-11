@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "About"
+    url: "/#about-me"
+
+  - title: "Publications"
+    url: "/#publications"
+
+  - title: "Services"
+    url: "/#services"
+
+  - title: "Awards"
+    url: "/#awards"
