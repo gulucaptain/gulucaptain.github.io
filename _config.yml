@@ -9,7 +9,8 @@ clustrmaps:
   enabled: true
   title: "Visitor Map"
   subtitle: "Live visitor map powered by ClustrMaps."
-  tracking_note: "Tracking starts after the widget is activated with your official ClustrMaps embed code."
+  tracking_note: "Live tracking enabled in April 2026."
+  widget_width: 220
   embed_src: "//clustrmaps.com/map_v2.js?d=VNzgjSph99H-9PiS4XRPDrMNzyIDx0aMDuYLGlUMYmQ&cl=ffffff&w=a"
 
 # SEO Related (Optional - leave empty if not used)

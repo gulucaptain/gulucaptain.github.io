@@ -1,5 +1,10 @@
 {% assign visitor_map = site.clustrmaps %}
 {% if visitor_map and visitor_map.enabled %}
+  {% assign embed_src = visitor_map.embed_src %}
+  {% if visitor_map.widget_width %}
+    {% capture width_query %}&w={{ visitor_map.widget_width }}{% endcapture %}
+    {% assign embed_src = embed_src | replace: '&w=a', width_query | replace: '?w=a', width_query %}
+  {% endif %}
   <section class="visitor-map" aria-labelledby="visitor-map-title">
     <h2 id="visitor-map-title">{{ visitor_map.title | default: "Visitor Map" }}</h2>
     {% if visitor_map.subtitle %}
@@ -7,11 +12,11 @@
     {% endif %}
 
     <div class="visitor-map__card">
-      {% if visitor_map.embed_src %}
+      {% if embed_src %}
         <script
           type="text/javascript"
           id="clustrmaps"
-          src="{{ visitor_map.embed_src | escape }}"
+          src="{{ embed_src | escape }}"
         ></script>
       {% else %}
         <p class="visitor-map__placeholder">
