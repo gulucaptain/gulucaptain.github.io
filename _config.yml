@@ -3,7 +3,7 @@
 # Site Settings
 title: "Haoyu Zhao"
 description: "Ph.D at FDU."
-repository: "elephantflow/gulucaptain-homepage"
+repository: "gulucaptain/gulucaptain.github.io"
 enable_google_scholar_stats: false
 
 # SEO Related (Optional - leave empty if not used)
@@ -13,8 +13,8 @@ baidu_site_verification:
 
 # Site Author
 author:
-  name: "Haoyu Zhao"
-  avatar: "https://avatars.githubusercontent.com/u/265717252?v=4"
+  name: "Haoyu Zhao (浩宇)"
+  avatar: "./images/zhaohaoyu.jpg"
   bio: "Every little helps."
   employer: "Fudan University"
   location: "Shanghai, China"
