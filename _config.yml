@@ -5,6 +5,12 @@ title: "Haoyu Zhao"
 description: "Ph.D at FDU."
 repository: "gulucaptain/gulucaptain.github.io"
 enable_google_scholar_stats: false
+clustrmaps:
+  enabled: true
+  title: "Visitor Map"
+  subtitle: "Live visitor map powered by ClustrMaps."
+  tracking_note: "Tracking starts after the widget is activated with your official ClustrMaps embed code."
+  embed_src: "//clustrmaps.com/map_v2.js?d=VNzgjSph99H-9PiS4XRPDrMNzyIDx0aMDuYLGlUMYmQ&cl=ffffff&w=a"
 
 # SEO Related (Optional - leave empty if not used)
 google_site_verification:

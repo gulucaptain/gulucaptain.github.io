@@ -1,0 +1,27 @@
+{% assign visitor_map = site.clustrmaps %}
+{% if visitor_map and visitor_map.enabled %}
+  <section class="visitor-map" aria-labelledby="visitor-map-title">
+    <h2 id="visitor-map-title">{{ visitor_map.title | default: "Visitor Map" }}</h2>
+    {% if visitor_map.subtitle %}
+      <p class="visitor-map__subtitle">{{ visitor_map.subtitle }}</p>
+    {% endif %}
+
+    <div class="visitor-map__card">
+      {% if visitor_map.embed_src %}
+        <script
+          type="text/javascript"
+          id="clustrmaps"
+          src="{{ visitor_map.embed_src | escape }}"
+        ></script>
+      {% else %}
+        <p class="visitor-map__placeholder">
+          Add your official ClustrMaps widget URL to <code>clustrmaps.embed_src</code> in <code>_config.yml</code> to enable the live map.
+        </p>
+      {% endif %}
+    </div>
+
+    {% if visitor_map.tracking_note %}
+      <p class="visitor-map__note">{{ visitor_map.tracking_note }}</p>
+    {% endif %}
+  </section>
+{% endif %}
