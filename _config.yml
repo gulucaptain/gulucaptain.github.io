@@ -9,7 +9,7 @@ clustrmaps:
   enabled: true
   title: "Visitor Map"
   tracking_note: "Live tracking enabled in Jan 2024."
-  widget_width: 250
+  widget_width: 300
   embed_src: "//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=VNzgjSph99H-9PiS4XRPDrMNzyIDx0aMDuYLGlUMYmQ"
 
 # SEO Related (Optional - leave empty if not used)
