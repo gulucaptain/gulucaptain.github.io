@@ -8,10 +8,9 @@ enable_google_scholar_stats: false
 clustrmaps:
   enabled: true
   title: "Visitor Map"
-  subtitle: "Live visitor map powered by ClustrMaps."
-  tracking_note: "Live tracking enabled in April 2026."
-  widget_width: 220
-  embed_src: "//clustrmaps.com/map_v2.js?d=VNzgjSph99H-9PiS4XRPDrMNzyIDx0aMDuYLGlUMYmQ&cl=ffffff&w=a"
+  tracking_note: "Live tracking enabled in Jan 2024."
+  widget_width: 250
+  embed_src: "//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=VNzgjSph99H-9PiS4XRPDrMNzyIDx0aMDuYLGlUMYmQ"
 
 # SEO Related (Optional - leave empty if not used)
 google_site_verification:
