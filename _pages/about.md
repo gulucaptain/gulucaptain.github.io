@@ -11,22 +11,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## Biography
+# Biography
 
-Haoyu Zhao is a fourth-year Ph.D. student at the College of Computer Science and Artificial Intelligence, **Fudan University (QS 30)**, under the supervision of **Prof. Zuxuan Wu** and **Prof. Yu-Gang Jiang**.
+Haoyu Zhao is a final-year Ph.D. student at the [Institute of Trustworthy Embodied AI (复旦大学可信具身智能研究院)](https://teai.fudan.edu.cn/), **Fudan University (QS 30)**, and a member of [Fudan Vision and Learning Lab (复旦大学视觉与学习实验室，FVL)](https://fvl.fudan.edu.cn/), under the supervision of **Prof. Zuxuan Wu** and **Prof. Yu-Gang Jiang**.
 
-His research focuses on computer vision and deep learning, particularly video understanding and generation, encompassing areas such as **Vision-Language Model**,  **Diffusion Model**, **Content-controllable Video Synthesis**, and **World Model**.
+Since 2019, his research has focused on **AIGC** and **Embodied AI**, with particular interests in *controllable diffusion models*, *world models*, and *spatial intelligence*.
 
-He has published his work in top-tier venues, including **CVPR**, **ECCV**, **AAAI**, **ICLR**, **TMM**, and **FCS**.
+He has published over twenty papers in top-tier venues, including **ICML**, **ECCV**, **CVPR**,  **AAAI**, **ICLR**, **TMM**, and **FCS**.
 
 <span class='anchor' id='publications'></span>
 
 # 📝 Selected Publications
-- **Haoyu Zhao**, Yuang Zhang, et al. DCDM: Divide-and-conquer diffusion models for consistency-preserving video generation. 🏆 **AAAI'26** CVM Challenging Top Team, 2026.
+- **Haoyu Zhao**, Jiaxi Gu, et al. CameraNoise: Enabling Faithful Camera Control in Video Diffusion through Geometry-Flow-Guided Noise Warping. **ICML**, 2026.
+
+- **Haoyu Zhao**, Yuang Zhang, et al. DCDM: Divide-and-conquer diffusion models for consistency-preserving video generation. 🏆 **AAAI'26** CVM Challenging Top Team, 2026. (Media Coverage: [智猩猩AI](https://course.zhidx.com/download/detail/NGFlMjIyZGEyYmY2NzhkMDAxZjM=))
 
 - Qingping Zheng, Bo Huang, Yang Liu, **Haoyu Zhao**, et al. ReFocusEraser: Refocusing for small object removal with robust context-shadow repair. **ICLR**, 2026.
 
-- **Haoyu Zhao**, Jiaxi Gu, et al. LSTD: Long short-term temporal diffusion for video generation. **TMM**, 2025.
+- **Haoyu Zhao**, Jiaxi Gu, et al. LSTD: Long short-term temporal diffusion for video generation. **TMM**, 2025. (Media Coverage: [机器之心](https://mp.weixin.qq.com/s/pbSK4KOO2hqQU1-uwQzjBA))
 
 - Zihao Zhang, Haoran Chen, **Haoyu Zhao**, et al. Eden: Enhanced diffusion for high-quality large-motion video frame interpolation. **CVPR**, 2025.
 
@@ -81,21 +83,21 @@ He has published his work in top-tier venues, including **CVPR**, **ECCV**, **AA
 
 # 💼 Work Experience
 
-- 2025.05 - Present, Research Intern (Qingyun Project), Advertising Marketing Services (AMS), Tencent
+- 2025.05 - Present, Research Intern **(Qingyun Talent Program)**, Advertising Marketing Services (AMS), Tencent. Conducted research on digital human and contributed to their deployment in *Tencent Ads Miaosi*.
 
-- 2023.03 - 2025.03, Research Intern, Huawei Noah's Ark Lab, Shanghai
+- 2023.03 - 2025.03, Research Intern, Huawei Noah's Ark Lab, Shanghai. Worked on AIGC research and its deployment in *Huawei Mate-series phones*.
 
 
 <span class='anchor' id='awards'></span>
 
 # 📋 Academic Services
 
-Reviewer for IJCV, TIP, TMM, KBS, TCSVT, NeurIPS, ICLR, ICML, AAAI, ACM MM, etc.
+Reviewer for IJCV, TIP, TMM, KBS, TCSVT, NeurIPS, ICLR, ICML, CVPR, AAAI, ACM MM, etc.
 
 <span class='anchor' id='awards'></span>
 
 ---
 
-Updated on Mar 10, 2026.
+Updated on May 1, 2026.
 
 {% include visitor-map.html %}
