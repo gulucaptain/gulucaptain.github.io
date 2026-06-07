@@ -1,5 +1,13 @@
 {% if page.analytics != false %}
 
+{% assign cloudflare_analytics = site.cloudflare_web_analytics %}
+{% if cloudflare_analytics and cloudflare_analytics.enabled and cloudflare_analytics.token %}
+<!-- Cloudflare Web Analytics -->
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ cloudflare_analytics.token }}"}'></script>
+<!-- End Cloudflare Web Analytics -->
+{% endif %}
+
+{% if site.google_analytics_id %}
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_id }}"></script>
 <script>
@@ -9,5 +17,6 @@
 
   gtag('config', "{{ site.google_analytics_id }}");
 </script>
+{% endif %}
 
 {% endif %}

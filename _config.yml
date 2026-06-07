@@ -5,8 +5,12 @@ title: "Haoyu Zhao"
 description: "Ph.D at FDU."
 repository: "gulucaptain/gulucaptain.github.io"
 enable_google_scholar_stats: false
+cloudflare_web_analytics:
+  enabled: true
+  token: "75c45d60f30a4389b57dafcc4b6c7986"
 clustrmaps:
   enabled: true
+  show_on_page: false
   title: "Visitor Map"
   tracking_note: "Live tracking enabled in Apr. 2026."
   widget_width: 300

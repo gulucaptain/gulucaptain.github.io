@@ -1,5 +1,5 @@
 {% assign visitor_map = site.clustrmaps %}
-{% if visitor_map and visitor_map.enabled %}
+{% if visitor_map and visitor_map.enabled and visitor_map.show_on_page != false %}
   {% assign embed_src = visitor_map.embed_src %}
   {% if visitor_map.widget_width %}
     {% capture width_query %}&w={{ visitor_map.widget_width }}{% endcapture %}
