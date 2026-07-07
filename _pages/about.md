@@ -13,7 +13,7 @@ redirect_from:
 
 # Biography
 
-Haoyu Zhao is a final-year Ph.D. student at the [Institute of Trustworthy Embodied AI (复旦大学可信具身智能研究院)](https://teai.fudan.edu.cn/), **Fudan University (QS 30)**, and a member of [Fudan Vision and Learning Lab (复旦大学视觉与学习实验室，FVL)](https://fvl.fudan.edu.cn/), under the supervision of **Prof. Zuxuan Wu** and **Prof. Yu-Gang Jiang**.
+Haoyu Zhao is currently a Research Fellow in [LV-Lab](https://www.lv-lab.org/nus/index.html) at the **National University of Singapore (NUS, QS 10)**, working with **Prof. Shuicheng Yan**. He received his Ph.D. degree from **Fudan University (QS 26)**, where he was affiliated with the [Institute of Trustworthy Embodied AI (复旦大学可信具身智能研究院)](https://teai.fudan.edu.cn/) and the [Fudan Vision and Learning Lab (复旦大学视觉与学习实验室，FVL)](https://fvl.fudan.edu.cn/), under the supervision of **Prof. Zuxuan Wu** and **Prof. Yu-Gang Jiang**.
 
 Since 2019, his research has focused on **AIGC** and **Embodied AI**, with particular interests in *controllable diffusion models*, *world models*, and *spatial intelligence*.
 
@@ -22,6 +22,8 @@ He has published over twenty papers in top-tier venues, including **ICML**, **EC
 <span class='anchor' id='publications'></span>
 
 # 📝 Selected Publications
+- **Haoyu Zhao**, Zhongang Qi, et al. DynamiCtrl: Rethinking the Basic Structure and the Role of Text for High-quality Human Image Animation. **TMM**, 2026.
+
 - **Haoyu Zhao**, Jiaxi Gu, et al. CameraNoise: Enabling Faithful Camera Control in Video Diffusion through Geometry-Flow-Guided Noise Warping. **ICML**, 2026.
 
 - **Haoyu Zhao**, Yuang Zhang, et al. DCDM: Divide-and-conquer diffusion models for consistency-preserving video generation. 🏆 **AAAI'26** CVM Challenging Top Team, 2026. (Media Coverage: [智猩猩AI](https://course.zhidx.com/download/detail/NGFlMjIyZGEyYmY2NzhkMDAxZjM=))
@@ -73,17 +75,19 @@ He has published over twenty papers in top-tier venues, including **ICML**, **EC
 
 <span class='anchor' id='awards'></span>
 
-# 📖 Educations
+<!-- # 📖 Educations
 
 - 2022.09 - Present, Ph.D in College of Computer Science and Artificial Intelligence, Fudan University. Supervisor: [Prof. Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=zh-CN) and [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/).
 - 2019.09 - 2022.06, M.S. in School of Mathematics and Computer Sciences, Nanchang University. Supervisor: [Prof. Weidong Min](https://scholar.google.com/citations?hl=zh-CN&user=42EqePkAAAAJ).
 - 2015.09 - 2019.06, B.S. in School of Information Engineering, Nanchang University.
 
-<span class='anchor' id='awards'></span>
+<span class='anchor' id='awards'></span> -->
 
 # 💼 Work Experience
 
-- 2025.05 - Present, Research Intern **(Qingyun Talent Program)**, Advertising Marketing Services (AMS), Tencent. Conducted research on digital human and contributed to their deployment in *Tencent Ads Miaosi*.
+- 2026.07 - Present, Research Fellow, LV-Lab, National University of Singapore (NUS).
+
+- 2025.05 - 2026.06, Research Intern **(Qingyun Talent Program)**, Advertising Marketing Services (AMS), Tencent. Conducted research on digital human and contributed to their deployment in *Tencent Ads Miaosi*.
 
 - 2023.03 - 2025.03, Research Intern, Huawei Noah's Ark Lab, Shanghai. Worked on AIGC research and its deployment in *Huawei Mate-series phones*.
 
@@ -92,7 +96,7 @@ He has published over twenty papers in top-tier venues, including **ICML**, **EC
 
 # 📋 Academic Services
 
-Reviewer for IJCV, TIP, TMM, KBS, TCSVT, NeurIPS, ICLR, ICML, CVPR, AAAI, ACM MM, etc.
+Reviewer for IJCV, TIP, TMM, KBS, TCSVT, NeurIPS, ICLR, ICML, CVPR, AAAI, ACM MM, ACL etc.
 
 <span class='anchor' id='awards'></span>
 
