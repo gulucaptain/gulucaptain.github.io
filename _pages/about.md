@@ -22,6 +22,8 @@ He has published over twenty papers in top-tier venues, including **ICML**, **EC
 <span class='anchor' id='publications'></span>
 
 # 📝 Selected Publications
+- **Haoyu Zhao**, Zuxuan Wu, Yu-Gang Jiang. UniCam: Taming Unified Diffusion Models in Noise Space for Camera-controllable Video Rendering. **IJCV**, 2026.
+
 - **Haoyu Zhao**, Zhongang Qi, et al. DynamiCtrl: Rethinking the Basic Structure and the Role of Text for High-quality Human Image Animation. **TMM**, 2026.
 
 - **Haoyu Zhao**, Jiaxi Gu, et al. CameraNoise: Enabling Faithful Camera Control in Video Diffusion through Geometry-Flow-Guided Noise Warping. **ICML**, 2026.
