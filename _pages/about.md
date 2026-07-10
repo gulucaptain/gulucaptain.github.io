@@ -22,6 +22,10 @@ He has published over twenty papers in top-tier venues, including **ICML**, **EC
 <span class='anchor' id='publications'></span>
 
 # 📝 Selected Publications
+- **Haoyu Zhao**, Zihao Zhang, et al. CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation. **ACM MM**, 2026.
+
+- Zihao Zhang<sup>*</sup>, **Haoyu Zhao**<sup>*</sup>, et al. SPEED: One-Step Pixel Diffusion for High-quality Video Frame Interpolation. **ACM MM**, 2026.
+
 - **Haoyu Zhao**, Zuxuan Wu, Yu-Gang Jiang. UniCam: Taming Unified Diffusion Models in Noise Space for Camera-controllable Video Rendering. **IJCV**, 2026.
 
 - **Haoyu Zhao**, Zhongang Qi, et al. DynamiCtrl: Rethinking the Basic Structure and the Role of Text for High-quality Human Image Animation. **TMM**, 2026.
