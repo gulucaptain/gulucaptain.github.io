@@ -17,7 +17,7 @@ Haoyu Zhao is currently a Research Fellow in [LV-Lab](https://www.lv-lab.org/nus
 
 Since 2019, his research has focused on **AIGC** and **Embodied AI**, with particular interests in *controllable diffusion models*, *world models*, and *spatial intelligence*.
 
-He has published over twenty papers in top-tier venues, including **ICML**, **ECCV**, **CVPR**,  **AAAI**, **ICLR**, **IJCV**, **TMM**, and **FCS**.
+He has published over twenty papers in top-tier venues, including **ICML**, **ECCV**, **ACM MM**, **CVPR**, **AAAI**, **ICLR**, **IJCV**, **TMM**, and **FCS**.
 
 <span class='anchor' id='publications'></span>
 
@@ -108,6 +108,6 @@ Reviewer for IJCV, TIP, TMM, KBS, TCSVT, NeurIPS, ICLR, ICML, CVPR, AAAI, ACM MM
 
 ---
 
-Updated on May 1, 2026.
+Updated on July, 2026.
 
 {% include visitor-map.html %}
