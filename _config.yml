@@ -2,7 +2,7 @@
 
 # Site Settings
 title: "Haoyu Zhao"
-description: "Ph.D at FDU."
+description: "Research Fellow at NUS."
 repository: "gulucaptain/gulucaptain.github.io"
 enable_google_scholar_stats: false
 cloudflare_web_analytics:
@@ -26,10 +26,10 @@ author:
   name: "Haoyu Zhao (浩宇)"
   avatar: "./images/zhaohaoyu.jpg"
   bio: "Every little helps."
-  employer: "Fudan University"
-  location: "Shanghai, China"
+  employer: "National University of Singapore"
+  location: "Singapore"
   googlescholar: "https://scholar.google.com/citations?user=pCGM7jwAAAAJ&hl=zh-CN"
-  email: "hyzhao22[at]m.fudan.edu.cn"
+  email: "zhaohaoyu[at]nus.edu.sg"
   github: "gulucaptain"
   linkedin:
 
