@@ -8,13 +8,13 @@ enable_google_scholar_stats: false
 cloudflare_web_analytics:
   enabled: true
   token: "75c45d60f30a4389b57dafcc4b6c7986"
-clustrmaps:
+mapmyvisitors:
   enabled: true
-  show_on_page: false
+  show_on_page: true
   title: "Visitor Map"
-  tracking_note: "Live tracking enabled in Apr. 2026."
+  tracking_note: "Live visitor tracking."
   widget_width: 300
-  embed_src: "//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=VNzgjSph99H-9PiS4XRPDrMNzyIDx0aMDuYLGlUMYmQ"
+  embed_src: "//mapmyvisitors.com/map.js?d=mBonwYjYWvh6zSi4II7xWcMdL4tYcCkChnezOI_I3xo&cl=ffffff&w=a"
 
 # SEO Related (Optional - leave empty if not used)
 google_site_verification:
