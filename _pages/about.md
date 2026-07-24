@@ -15,9 +15,9 @@ redirect_from:
 
 Haoyu Zhao is currently a Research Fellow in [LV-Lab](https://www.lv-lab.org/nus/index.html) at the **National University of Singapore (NUS, QS 10)**, working with **Prof. Shuicheng Yan**. He received his Ph.D. degree from **Fudan University (QS 26)**, where he was affiliated with the [Institute of Trustworthy Embodied AI (复旦大学可信具身智能研究院)](https://teai.fudan.edu.cn/) and the [Fudan Vision and Learning Lab (复旦大学视觉与学习实验室，FVL)](https://fvl.fudan.edu.cn/), under the supervision of **Prof. Zuxuan Wu** and **Prof. Yu-Gang Jiang**.
 
-Since 2019, his research has focused on **AIGC** and **Embodied AI**, with particular interests in *controllable diffusion models*, *world models*, and *spatial intelligence*.
+Since 2019, his research has focused on **AIGC** and **Embodied AI**, with particular interests in *controllable diffusion models*, *world models*, and *Embodied AI*. He has published over twenty papers in top-tier venues, including **ICML**, **ECCV**, **ACM MM**, **CVPR**, **AAAI**, **ICLR**, **IJCV**, **TMM**, and **FCS**.
 
-He has published over twenty papers in top-tier venues, including **ICML**, **ECCV**, **ACM MM**, **CVPR**, **AAAI**, **ICLR**, **IJCV**, **TMM**, and **FCS**.
+If you are interested in potential collaborations, please feel free to [email](zhaohaoyu@nus.edu.sg) me.
 
 <span class='anchor' id='publications'></span>
 
