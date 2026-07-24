@@ -17,7 +17,7 @@ Haoyu Zhao is currently a Research Fellow in [LV-Lab](https://www.lv-lab.org/nus
 
 Since 2019, his research has focused on **AIGC** and **Embodied AI**, with particular interests in *controllable diffusion models*, *world models*, and *Embodied AI*. He has published over twenty papers in top-tier venues, including **ICML**, **ECCV**, **ACM MM**, **CVPR**, **AAAI**, **ICLR**, **IJCV**, **TMM**, and **FCS**.
 
-If you are interested in potential collaborations, please feel free to [email](zhaohaoyu@nus.edu.sg) me.
+If you are interested in potential collaborations, please feel free to [email](mailto:zhaohaoyu@nus.edu.sg) me.
 
 <span class='anchor' id='publications'></span>
 
