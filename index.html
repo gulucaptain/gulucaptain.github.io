@@ -1,0 +1,12 @@
+---
+layout: default
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from:
+  - /about.html
+---
+
+{% comment %}The source file is HTML, so render the shared Markdown explicitly.{% endcomment %}
+{% capture homepage_content %}{% include home-content.md %}{% endcapture %}
+{{ homepage_content | markdownify }}

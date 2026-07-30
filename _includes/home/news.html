@@ -1,0 +1,16 @@
+<span class="anchor" id="news"></span>
+
+<h1>🔥 News</h1>
+
+<div class="news-section-body{% if site.data.news.size > 10 %} news-section-body--scrollable{% endif %}">
+  <div class="news-list-wrap{% if site.data.news.size > 10 %} news-list-wrap--scrollable{% endif %}" role="region" aria-label="News archive"{% if site.data.news.size > 10 %} tabindex="0"{% endif %}>
+    <ul class="news-list">
+      {% for item in site.data.news %}
+        <li class="news-item">
+          <span class="news-content">[<time class="news-date" datetime="{{ item.date | replace: '.', '-' }}">{{ item.date }}</time>] {{ item.prefix }}{% if item.url contains '://' %}<a class="news-link" href="{{ item.url }}">{{ item.link_text }}</a>{% elsif item.url %}<a class="news-link" href="{{ item.url | relative_url }}">{{ item.link_text }}</a>{% else %}{{ item.link_text }}{% endif %}{{ item.suffix }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% if site.data.news.size > 10 %}<div class="news-scroll-hint" aria-hidden="true">Scroll for more&nbsp; ↓</div>{% endif %}
+</div>

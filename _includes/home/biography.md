@@ -1,0 +1,7 @@
+<span class='anchor' id='about-me'></span>
+
+I am currently a Research Fellow in [Learning and Vision Laboratory (LV-Lab)](https://www.lv-lab.org/nus/index.html){: .biography-link} at the <img class="institution-logo institution-logo--nus" src="{{ '/assets/images/institution/nus.png' | relative_url }}" alt="National University of Singapore logo"> **National University of Singapore (NUS)**, working with **Prof. Shuicheng Yan**. I received my Ph.D. degree from <img class="institution-logo" src="{{ '/assets/images/institution/fudan.svg' | relative_url }}" alt="Fudan University logo"> **Fudan University (FDU)** in 2026, where I was affiliated with the [Institute of Trustworthy Embodied AI (复旦大学可信具身智能研究院)](https://teai.fudan.edu.cn/){: .biography-link}, under the supervision of **Prof. Yu-Gang Jiang** and **Prof. Zuxuan Wu**. To date, I have published dozens of papers in top-tier international venues.
+
+Since 2019, my research has focused on **AIGC** and **Embodied AI**, with particular interests in *controllable diffusion models*, *world models*, and *embodied intelligence*. <span class="research-vision">My long-term vision is to develop world models that enable embodied agents to understand, reason about, and purposefully interact with the physical world.</span>
+
+Please feel free to contact me at <span class="biography-email">zhaohaoyu [at] nus.edu.sg</span> if you are interested in internship or research collaboration opportunities.
