@@ -2,7 +2,7 @@
 
 # 🎖 Honors and Awards
 
-- AAAI'26 CVM Top Team (Role: PI), 2026
+- AAAI'26 CVM Top Team (Project Lead), 2026
 
 - Outstanding Student Award, Fudan University, 2024
 
