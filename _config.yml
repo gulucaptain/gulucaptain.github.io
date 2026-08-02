@@ -14,9 +14,8 @@ mapmyvisitors:
   enabled: true
   show_on_page: true
   title: "Visitor Map"
-  tracking_note: "Live visitor tracking."
   widget_width: 300
-  embed_src: "//mapmyvisitors.com/map.js?d=mBonwYjYWvh6zSi4II7xWcMdL4tYcCkChnezOI_I3xo&cl=ffffff&w=a"
+  embed_src: "//mapmyvisitors.com/map.js?d=OV-OkXar_w3VhAELmJE8WqkN7SR_TvN8g0S_qXnRbiQ&cl=ffffff&w=a"
 
 # SEO Related (Optional - leave empty if not used)
 google_site_verification:
