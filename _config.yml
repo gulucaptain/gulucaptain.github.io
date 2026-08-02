@@ -12,7 +12,7 @@ cloudflare_web_analytics:
   token: "75c45d60f30a4389b57dafcc4b6c7986"
 mapmyvisitors:
   enabled: true
-  show_on_page: true
+  show_on_page: false
   title: "Visitor Map"
   widget_width: 300
   embed_src: "//mapmyvisitors.com/map.js?d=OV-OkXar_w3VhAELmJE8WqkN7SR_TvN8g0S_qXnRbiQ&cl=ffffff&w=a"
