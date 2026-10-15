@@ -1,4 +1,28 @@
 # Keep entries in newest-first order.
+- date: "2026.10"
+  prefix: "🎉 "
+  link_text: "OpenViTac"
+  url: "https://arxiv.org/abs/2610.10384"
+  suffix: ", our systematic framework for visuo-tactile policies, is now available!"
+
+- date: "2026.09"
+  prefix: "🎉 We introduce MaLiang-Harness, a programmable path to image and video generation in our "
+  link_text: "paper"
+  url: "https://arxiv.org/abs/2609.34309"
+  suffix: "."
+
+- date: "2026.09"
+  prefix: "🎉 We introduce the first System One Model (Jev) in Chinese-centric tasks in our "
+  link_text: "paper"
+  url: "https://arxiv.org/abs/2609.36965"
+  suffix: "."
+
+- date: "2026.09"
+  prefix: "🎉 We introduce the first evaluation of physical reasoning in omni-modal models in our "
+  link_text: "paper"
+  url: "https://arxiv.org/abs/2609.18323"
+  suffix: "."
+
 - date: "2026.07"
   prefix: "🎉 Our work CameraNoise was featured by "
   link_text: "Tencent Advertising Technology"

@@ -12,6 +12,6 @@
 
 ---
 
-Updated on July, 2026.
+Updated on Oct., 2026.
 
 {% include visitor-map.html %}
