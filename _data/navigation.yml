@@ -17,3 +17,6 @@ main:
 
   - title: "Services"
     url: "/#services"
+
+  - title: "Blog"
+    url: "https://gulucaptain.github.io/DailyPaper/"
