@@ -2,19 +2,19 @@
 - date: "2026.10"
   prefix: "🎉 "
   link_text: "OpenViTac"
-  url: "https://arxiv.org/abs/2610.10384"
+  url: "https://fvl-repo.github.io/OpenViTac/"
   suffix: ", our systematic framework for visuo-tactile policies, is now available!"
 
 - date: "2026.09"
   prefix: "🎉 We introduce "
   link_text: "MaLiang-Harness"
-  url: "https://arxiv.org/abs/2609.34309"
+  url: "https://gulucaptain.github.io/MaLiang-Harness/"
   suffix: ", a programmable path to image and video generation."
 
 - date: "2026.09"
   prefix: "🎉 We introduce the first System One Model (Jev) in Chinese-centric tasks in our "
   link_text: "Chinese-Jev"
-  url: "https://arxiv.org/abs/2609.36965"
+  url: "https://gulucaptain.github.io/Chinese-Jev/"
   suffix: "."
 
 - date: "2026.09"
