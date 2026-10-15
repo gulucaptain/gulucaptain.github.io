@@ -6,14 +6,14 @@
   suffix: ", our systematic framework for visuo-tactile policies, is now available!"
 
 - date: "2026.09"
-  prefix: "🎉 We introduce MaLiang-Harness, a programmable path to image and video generation in our "
-  link_text: "paper"
+  prefix: "🎉 We introduce "
+  link_text: "MaLiang-Harness"
   url: "https://arxiv.org/abs/2609.34309"
-  suffix: "."
+  suffix: ", a programmable path to image and video generation."
 
 - date: "2026.09"
   prefix: "🎉 We introduce the first System One Model (Jev) in Chinese-centric tasks in our "
-  link_text: "paper"
+  link_text: "Chinese-Jev"
   url: "https://arxiv.org/abs/2609.36965"
   suffix: "."
 
